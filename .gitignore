@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment variables (contains vault path)
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+
+# Claude config
+.claude/
+
+# Test artifacts
+.pytest_cache/
+
+# Internal review docs
+CODE_REVIEW_CHECKLIST.md
+REVIEW_*.md
+*_CHECKLIST.md
+
+# Claude project docs
+CLAUDE_PROJECT_INSTRUCTIONS.md
+REFACTOR_PLAN.md
