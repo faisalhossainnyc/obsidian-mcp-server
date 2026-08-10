@@ -1,5 +1,5 @@
 # MCP SDK
-mcp[cli]>=1.0.0
+mcp[cli]>=1.0,<2
 
 # Vault file handling
 python-frontmatter==1.0.1
